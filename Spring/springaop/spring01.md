@@ -178,7 +178,7 @@ public void getReulst(Object return Value){
 
 ### 代理模式
 
-
+![tupian](../../imgs/proxy.jpg)
 
 ## 设计
 

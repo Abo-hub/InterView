@@ -183,11 +183,18 @@ public void getReulst(Object return Value){
 ## 设计
 
 ### 代理模式
+1. 静态代理
+2. 动态代理
+    2.1 两类实现
+        - 基于接口代理
+        - 基于继承代理
 
 ### 责任链模式
 
 ## 实现
 
 ### JDK实现
-
+类：java.langreflect.Proxy
+接口：InvocationHandler
+只能基于接口进行动态代理
 ### Cglib实现

@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClassLoaderPropTest",
+            "request": "launch",
+            "mainClass": "com.sun.ClassLoaderPropTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App"
+        }
+    ]
+}

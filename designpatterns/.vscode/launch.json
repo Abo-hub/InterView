@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ChainMain",
+            "request": "launch",
+            "mainClass": "chain.ChainMain",
+            "projectName": "designpatterns"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - InterceptorMain",
             "request": "launch",
             "mainClass": "interceptor.InterceptorMain",

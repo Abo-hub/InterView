@@ -1,0 +1,12 @@
+{
+    "configurations": [
+            {
+            "type": "java",
+            "name": "CodeLens (Launch) - JumpFloor",
+            "request": "launch",
+            "mainClass": "JumpFloor.JumpFloor",
+            "projectName": "jianzhioffer_ee9a4a95",
+            "console": "integratedTerminal"
+        }
+    ]
+}
